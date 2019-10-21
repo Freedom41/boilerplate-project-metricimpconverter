@@ -7,3 +7,6 @@
 4) You will create all of the functional/unit tests in `tests/2_functional-tests.js` and `tests/1_unit-tests.js`
 
 
+5) All of the above done.....backend testing done via `https://pricey-hugger.glitch.me/`
+
+
